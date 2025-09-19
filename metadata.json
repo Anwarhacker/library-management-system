@@ -1,0 +1,5 @@
+{
+  "name": "AI Librarian",
+  "description": "A virtual library experience where you can browse and discover books. Ask our AI Librarian to generate summaries, find similar books, or even create new fictional book entries for your virtual collection.",
+  "requestFramePermissions": []
+}
